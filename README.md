@@ -11,7 +11,7 @@ Binary build Command:
 Run Command for trace:
 ./run_champsim.sh [BINARY] [N_WARM] [N_SIM] [TRACE] [OPTION]
 
-Results from the traces are found in "graph_results" folder
+Results from the traces are found in "Graph_Results" folder
 
 Traces are found in dpc3_traces folder within ChampSim-master Directory
 
